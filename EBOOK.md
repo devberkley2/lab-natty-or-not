@@ -16,7 +16,7 @@ Para concluir, a montagem final foi feita no Office.
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[https://ebookmaker.ai/ebook/]()
+[https://ebookmaker.ai/ebook/edit/665e28c9dea3b5d9741904e4/]()
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
